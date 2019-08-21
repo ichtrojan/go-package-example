@@ -1,1 +1,1 @@
-# go-pacakage-example
+# Go Custom Package Example
