@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/ichtrojan/go-package-examples/routes"
+  "github.com/ichtrojan/go-package-example/routes"
 )
 
 func main() {
